@@ -1,0 +1,3 @@
+﻿  SystemCProject.cpp
+C:\Users\thanh\OneDrive\Máy tính\New folder (2)\SystemCProject\SystemCProject\SystemCProject.cpp(27,26): warning C4553: '==': result of expression not used; did you intend '='?
+  SystemCProject.vcxproj -> C:\Users\thanh\OneDrive\Máy tính\New folder (2)\SystemCProject\Debug\SystemCProject.exe
